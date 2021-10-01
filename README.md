@@ -44,12 +44,6 @@ Copyright of the materials/Articles/Books/Pages used in this repo goes to their 
 
 
 
-## Awesome contributors :star_struck:
-<a href="https://github.com/Awesome-Computer_Science-Resources/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=thekalyan001/Awesome-Computer_Science-Resources" />
-</a>
-
-Made with [contributors-img](https://contributors-img.web.app).
 
 ## Help Contributing Guides :crown:
 
