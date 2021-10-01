@@ -1,6 +1,6 @@
-This repo Contains Various kinds of repo containing Portifolio page
+This repo Contains Various kinds of repo containing Portfolio page
 
 <hr>
 <h2>Wanna add your own</h2>
 <br>
-Make a pull request of your own project with screenshots
+Make a pull request of your own portfolio project with screenshots
