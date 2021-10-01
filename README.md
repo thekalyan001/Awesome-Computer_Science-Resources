@@ -18,12 +18,11 @@ This Repo Will Contain Almost every types of Resources of Computer Science which
 
 
 ## Rules :fire:
-<tr>
-  1. Add the books with meaning-ful name of the file
-  2. Add portifolio website project with one seperate foler contains screenshot
-  3. Don't do spamms we'll not accept that
-  4.Enjoy while contributing
-<tr>
+
+#### 1. Add the books with meaning-ful name of the file
+#### 2. Add portifolio website project with one seperate foler contains screenshot
+#### 3. Don't do spamms we'll not accept that
+#### 4.Enjoy while contributing
 
 ## Choose from these tasks :rainbow:
 
