@@ -1,4 +1,4 @@
-# 🔥🔥 Awesome-Computer_Science-Resources ✔
+# 🔥🔥 Awesome-Computer_Science-Resources. ✔
 This Repo Will Contain Almost every types of Resources of Computer Science which will help the Geek
 
 ### :star_struck: This repo will participate in <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest_2021</a> :star_struck:
